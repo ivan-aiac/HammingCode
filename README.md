@@ -1,1 +1,1 @@
-"# HammingCode" 
+# HammingCode
